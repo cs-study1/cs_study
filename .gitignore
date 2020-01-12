@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+bin/
+pyvenv.cfg
+.idea
+.git/
