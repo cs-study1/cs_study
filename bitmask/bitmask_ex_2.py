@@ -69,7 +69,3 @@ print(sieve)
 
 print(is_prime(127))
 print(is_prime(255))
-
-ff = 1
-if not ff:
-    print("시발")
